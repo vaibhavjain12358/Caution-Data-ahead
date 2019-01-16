@@ -1,0 +1,6 @@
+Exploratory Data Analysis
+
+The objective is understand and find the driving factors (or driver variables) behind loan default, i.e. 
+ the variables which are strong indicators of default, using EDA. 
+
+Finding these variables can help in predicting if new consumer default the loan or not.
